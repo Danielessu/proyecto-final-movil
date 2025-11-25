@@ -1,10 +1,6 @@
 # 🚗 AutoCare - Gestión Inteligente del Ciclo de Vida del Vehículo
 
 <p align="center">
-  <img src="assets/images/autocare-logo.png" alt="AutoCare Logo" width="200"/>
-</p>
-
-<p align="center">
   <strong>Plataforma B2B SaaS para Concesionarios, Talleres y Propietarios de Vehículos</strong>
 </p>
 
